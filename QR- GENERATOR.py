@@ -17,5 +17,6 @@ phonepe_qr.show()
 paytm_qr.show()
 google_pay_qr.show()
 
-print('hello')
+
+
 
